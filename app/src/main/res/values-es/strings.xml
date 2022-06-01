@@ -7,4 +7,9 @@
     <string name="buton_2">Precios</string>
     <string name="buton_3">Detalles</string>
     <string name="description_imageviewsamsung">Imagen del Samsung S22</string>
+    <string name="string_appname">Training</string>
+    <string name="string_tvusername">Nombre de usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="button">Ingresar</string>
+    <string name="string_tvlogin">Iniciar sesión</string>
 </resources>

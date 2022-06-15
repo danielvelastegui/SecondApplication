@@ -64,6 +64,6 @@ class LoginActivity : AppCompatActivity() {
                     "[a-zA-Z0-9][a-zA-Z0-9\\-]{0,25}" +
                     ")+"
         ).matcher(this).matches()
-    
+
 
 }

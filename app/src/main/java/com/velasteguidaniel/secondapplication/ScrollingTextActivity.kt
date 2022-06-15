@@ -3,9 +3,11 @@ package com.velasteguidaniel.secondapplication
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.text.method.ScrollingMovementMethod
+import android.util.Log
 import android.widget.Button
 import android.widget.EditText
 import android.widget.TextView
+import android.widget.Toast
 
 class ScrollingTextActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
